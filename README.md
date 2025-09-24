@@ -1,4 +1,4 @@
-# Ace-Beta
+# BuyNPlay
 <p> <h1># GameStore (Demo Project) </h1></p>
 
 <p> Welcome to <b>BuyNPlay</b>, a demo project that simulates an online game store. </p>  
