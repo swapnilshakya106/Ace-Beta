@@ -2,9 +2,9 @@
 <p> <h1># GameStore (Demo Project) </h1></p>
 
 <p> Welcome to <b>BuyNPlay</b>, a demo project that simulates an online game store. </p>  
-This website is built for practice and learning purposes – users can browse, view, and "purchase" games, but no real transactions or downloads happen here.  
+This website is built for practice and learning purposes – users can browse, view, and "purchase" games, but no real transactions or downloads happen here.  <br>
 
-<b> <i>##  Features:</i>  </b>
+<b> <u>##  Features:</u>  </b>
 -  Add games to cart and checkout (demo only)  
 -  Search and filter games  
 -  Fake purchase flow (no real payments)  
